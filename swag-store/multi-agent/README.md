@@ -1,7 +1,5 @@
 ## Quick Prompt
 
 ```
-Build and deploy a Docker-branded Swag Store with 8 products (T-shirts, hoodies, mugs, stickers, cap, tote bag, socks, laptop sleeve),
-a working shopping cart sidebar, category filters, and toast notifications. Single HTML file using Docker brand colors #1D63ED and
-#030F1C. Build with nginx:alpine, run on port 8080, confirm live at http://localhost:8080
+Build and deploy a Docker-branded Swag Store. Create a product spec, build a complete single HTML file with 8 products, shopping cart, category filters and toast notifications using Docker brand colors #1D63ED and #030F1C, validate all components, review code quality, then Dockerize with nginx:alpine and deploy to port 8080. Keep the container running after deployment.
 ```
