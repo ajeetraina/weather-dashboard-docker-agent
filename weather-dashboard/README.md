@@ -1,3 +1,6 @@
+
+## Quick Prompt
+
 Build and deploy a production AccuWeather-style weather dashboard for
 Bengaluru, India. Create ./weather-dashboard/index.html as a complete
 single-file HTML app that fetches live weather from Open-Meteo API, shows
